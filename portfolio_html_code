@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<body>
+    <div class="protfolio-container">
+        <ul class="navlist">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Skills.html">Skills</a></li>
+            <li><a href="project.html">Project</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+        </ul>
+        <div class="left-container">
+            <div class="icon">
+                <a href="9350789538" style=" color: #fff;">
+                    <i class="fa-solid fa-phone"></i>
+                </a>
+                <a style=" color: #fff;">
+                    <i class="fa-solid fa-envelope"></i>
+                </a>
+                <a href="https://www.facebook.com/wasi.tegrabi.7?mibextid=ZbWKwL" style=" color: #fff;">
+                    <i class="fa-brands fa-facebook-f"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/wasi-ahmad-56a8542b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style=" color: #fff;">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a href="https://www.instagram.com/wasitegrabi?igsh=eDgwY2phcng0bzA0" style=" color: #fff;">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+            </div>
+            <div class="content">
+                <p class="intro">Hi! I Am <span> MD Wasi Ahmad</span></p>
+                <h1>Web Developer.</h1>
+                <p class="details">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem voluptas aperiam perspiciatis eveniet, ullam odio sunt quaerat repellat. Excepturi blanditiis expedita obcaecati eveniet corporis ullam tenetur dicta molestias, harum reiciendis?</p>
+                <div class="btn-container">
+                    <button>
+                        <a href="">Hire Me</a>
+                    </button>
+                    <button>
+                        <a href="Resume.html">View Resume</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="right-container"></div>
+        <div class="design">
+            <div class="circle"></div>
+            <div class="circle"></div>
+        </div>
+    </div>
+</body>
+</html>
